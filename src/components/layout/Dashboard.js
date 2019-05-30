@@ -8,7 +8,7 @@ export default function Dashboard() {
       <div className="col-md-10">
         <Clients />
       </div>
-      <div class="col-md-2">
+      <div className="col-md-2">
         <Sidebar />
       </div>
     </div>
